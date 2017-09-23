@@ -1,2 +1,3 @@
 test4 file txt message
 this line of txt is written in the web
+this line of txt is written in the terminal
